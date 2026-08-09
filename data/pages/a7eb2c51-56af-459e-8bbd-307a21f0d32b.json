@@ -188,8 +188,17 @@
               ]
             },
             {
-              "text": "to read an article about the hearings. Then, watch the below clip of Joe Rogan speaking about the influence of social media.",
+              "text": "to read an article about the hearings. ",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "bold": true,
+              "text": "Watch the below clip of Joe Rogan speaking about the influence of social media."
             }
           ]
         }
@@ -208,10 +217,39 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "bulleted-list",
       "children": [
         {
-          "text": ""
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.pewresearch.org/short-reads/2022/05/13/support-for-more-regulation-of-tech-companies-has-declined-in-u-s-especially-among-republicans/",
+              "children": [
+                {
+                  "text": "Click here ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": "to read a Pew Research Report on what Americans believe about the regulation of social media.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Watch the clip below to hear the former president of the ACLU argue against regulation of social media.",
+              "bold": true
+            }
+          ]
         }
       ]
     }
@@ -224,6 +262,6 @@
   "slug": "stage-2-public-debate",
   "created_at": "2026-08-09T20:40:24.314Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-09T20:45:05.325Z",
+  "updated_at": "2026-08-09T20:48:59.851Z",
   "updated_by": "kywark"
 }
