@@ -1,0 +1,176 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "We interrupt this lifecycle for a brief refresher on rhetoric and the rhetorical appeals!",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Remember: "
+        },
+        {
+          "text": "Rhetoric",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " just refers to the way you use language to communicate, generally with the intent of persuading your intended audience. \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "So,"
+        },
+        {
+          "text": " rhetorical appeals",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " are the three main ways we categorize HOW people appeal to their audience: via "
+        },
+        {
+          "text": "ethos",
+          "bold": true
+        },
+        {
+          "text": " (credibility, authority), "
+        },
+        {
+          "text": "pathos",
+          "bold": true
+        },
+        {
+          "text": " (emotion, positive and negative), or "
+        },
+        {
+          "text": "logos",
+          "bold": true
+        },
+        {
+          "text": " (reason, logic, data). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLeX5ET-sYdT5gxoqhDM50ZmVmu10f4XRW569Q0tnxJg&s=10",
+      "caption": "Refresher of the three appeals!",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Still confused? Click ",
+          "italic": true
+        },
+        {
+          "italic": true,
+          "text": "here",
+          "link": "https://stlcc.edu/insider/writing-resources/pathos-logos-and-ethos.aspx"
+        },
+        {
+          "italic": true,
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "SO:",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " What was the most successful appeal to you from either of the two sources: ethos, pathos, or logos? What was it? Why do you think it worked on you? (2-3 sentences.)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "...and now back to the beef!",
+          "textSize": "heading-three"
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "title": "Rhetoric Refresher",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "rhetoric-refresher",
+  "created_at": "2026-08-09T20:58:23.335Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-09T20:58:23.335Z",
+  "updated_by": "kywark"
+}
