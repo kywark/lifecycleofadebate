@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "83f4eeb2-46cd-4abe-a405-a4cae2ca0995": {
+      "label": "JR Clip",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/shorts/-bE4QVmUyfs",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Joe Rogan Clip",
+  "av_file_order": [
+    "83f4eeb2-46cd-4abe-a405-a4cae2ca0995"
+  ],
+  "created_at": "2026-08-09T20:40:59.842Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-09T20:40:59.842Z",
+  "updated_by": "kywark"
+}
