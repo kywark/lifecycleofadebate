@@ -1,0 +1,127 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Debate: Censorship on Social Media Platforms",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "(c. 2010-Now)*",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "*Non-exhaustive - research actually supports this debate extending as far back as the printing press!",
+          "textSize": "heading-three",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The debate over regulation (some might say “censorship”) of speech on social media platforms like X (formerly known as Twitter) and Facebook involves questions about who gets to decide what is permissible to post and the impact of those decisions on society, politics, and individual rights. It is one of the defining conflicts of the digital age, a battleground where freedom of expression collides with the necessity of protecting the public from harmful or misleading posts. Is the internet truly a public square where anyone is entitled to say anything about anything at all? Or is it a gated community run by tech giants and Big Brother?  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Follow the lifecycle of this debate to find out more!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Instructions:",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Navigate through the following pages, being sure to read/watch/listen to all the items enclosed. If something is blocked, please let your instructors know!"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Periodically, there will be questions bolded -- write your answer to these questions in the manner your instructor says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "...now, onto the debate! Start with \"Stage 1: Exigence.\"",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Student Instructions",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "student-instructions",
+  "created_at": "2026-08-09T20:33:02.143Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-09T20:33:02.143Z",
+  "updated_by": "kywark"
+}
