@@ -252,6 +252,34 @@
           ]
         }
       ]
+    },
+    {
+      "uuid": "fe9afec7-14c9-4398-a392-96b14ae9a372",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After reading and watching the above resources, "
+        },
+        {
+          "text": "answer the following:",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " What would you say are at least three (3) positions in this debate? Briefly explain them -- think beyond agree/disagree! (No need for complete sentences.)\n\n"
+        }
+      ]
     }
   ],
   "title": "Stage 2: Public Debate",
@@ -262,6 +290,6 @@
   "slug": "stage-2-public-debate",
   "created_at": "2026-08-09T20:40:24.314Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-09T20:48:59.851Z",
+  "updated_at": "2026-08-09T20:50:59.272Z",
   "updated_by": "kywark"
 }
