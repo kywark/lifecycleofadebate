@@ -1,0 +1,222 @@
+{
+  "content": [
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "The debate has gone mainstream! What are people saying?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By 2020, the debate had escalated, fueled by the COVID-19 pandemic and the U.S. presidential election. Social media platforms began experimenting with more aggressive moderation policies, leading to public outcry from various factions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Key Moment #1: The Congressional Hearings on Social Media Moderation (2018-2021)",
+          "textSize": "heading-two"
+        },
+        {
+          "text": "Congressional hearings brought social media executives, including Facebook’s Mark Zuckerberg, Twitter’s Jack Dorsey, and Google’s Sundar Pichai, into the public eye to answer tough questions about content moderation. These hearings highlighted the divide between lawmakers and the tech industry over what constitutes responsible moderation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key Moment:",
+          "bold": true
+        },
+        {
+          "text": " In a 2021 hearing, Republican lawmakers criticized platforms for silencing conservative voices, while Democrats pushed for stronger action against misinformation and hate speech."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Public Reaction: ",
+          "bold": true
+        },
+        {
+          "text": "These hearings were widely debated on social media, with users and influencers amplifying concerns about political bias, transparency, and accountability."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "bold": true,
+              "text": "Click "
+            },
+            {
+              "type": "link",
+              "url": "https://www.cnbc.com/2021/03/25/tech-ceo-hearing-recap-lawmakers-frustrated-with-social-media.html",
+              "children": [
+                {
+                  "text": "here ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": "to read an article about the hearing.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key Moment #2: The Joe Rogan-Spotify Controversy (2022)",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The debate over content moderation took a cultural turn when Spotify faced backlash for hosting Joe Rogan’s podcast, accused of spreading COVID-19 misinformation. The public conversation centered on whether platforms hosting user-generated content bear responsibility for ensuring accuracy."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key Moment: ",
+          "bold": true
+        },
+        {
+          "text": "Artists like Neil Young and Joni Mitchell pulled their music from Spotify in protest, reigniting discussions about free speech and corporate ethics."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Public Reaction:",
+          "bold": true
+        },
+        {
+          "text": " The controversy sparked a wider discussion about corporate censorship, platform neutrality, and the influence of prominent creators on public opinion."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Click ",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.cnbc.com/2021/03/25/tech-ceo-hearing-recap-lawmakers-frustrated-with-social-media.html",
+              "children": [
+                {
+                  "text": "here ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": "to read an article about the hearings. Then, watch the below clip of Joe Rogan speaking about the influence of social media.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Stage 2: Public Debate",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "stage-2-public-debate",
+  "created_at": "2026-08-09T20:40:24.314Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-09T20:40:24.314Z",
+  "updated_by": "kywark"
+}
