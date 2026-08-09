@@ -1,0 +1,229 @@
+{
+  "content": [
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Exigence",
+          "bold": true
+        },
+        {
+          "text": " describes the specific, inciting moment that lead to the creation of the argument. What event, conflict, situation is leading to the creation of the work? (i.e., why now?)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The censorship debate began in earnest in the early 2010s, as social media platforms like Facebook, Twitter, and YouTube became key spaces for public discourse. Just think: If everyone and their mother is on social media, why wouldn’t they talk about the world around them? "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key Moment #1: The 2016 U.S. Presidential Election and the Rise of \"Fake News\"",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The 2016 election marked a turning point in discussions about censorship on social media. Platforms like Facebook and Twitter were accused of enabling the spread of misinformation, including Russian disinformation campaigns and viral \"fake news\" articles."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.theguardian.com/technology/2017/oct/30/facebook-russia-fake-accounts-126-million",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to read an article about the Russian disinformation campaign.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.getbadnews.com/en",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to play a Fake News game aimed at generating as many followers as possible.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Key Moment #2: The Alex Jones Ban (2018)",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Infowars (a far-right conspiracy site most notorious for platforming the Sandy Hook hoax) founder Alex Jones was banned from multiple platforms, including Facebook, YouTube, and Spotify, for violating policies on hate speech and harassment. However, then-Twitter CEO Jack Dorsey initially kept Jones on the platform. "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.fox7austin.com/news/twitter-ceo-defends-decision-not-to-ban-alex-jones-infowars",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to read an article reporting the reasons for why he was kept on the platform.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "But then, Dorsey bowed to public pressure and reversed his decision, ultimately banning him from the platform."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.npr.org/2018/09/06/645352618/twitter-bans-alex-jones-and-infowars-cites-abusive-behavior",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to understand the timeline of this reversal. ",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While many applauded this decision, the question was raised: Was he following the rules or not? If this decision was reversed, does this mean that social media companies are arbitrarily enforcing their policies? And if so,  might this mean that they have too much power to shape public conversation?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Answer the following in ~3-4 sentences:",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " What do you think? Do social media companies have too much power? Who bears the responsibility in combating misinformation and hateful speech: users, platforms, or the government? Or does no one bear any responsibility? Why/why not? Be sure to mention specifics from the article(s) to support your answer."
+        }
+      ]
+    }
+  ],
+  "title": "Stage 1: Exigence",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "stage-1-exigence",
+  "created_at": "2026-08-09T20:37:22.578Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-09T20:37:22.578Z",
+  "updated_by": "kywark"
+}
