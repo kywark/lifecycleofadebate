@@ -26,30 +26,14 @@
           "bold": true
         },
         {
-          "text": ". "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The lesson will take "
+          "text": ". The lesson will take "
         },
         {
           "text": "30-45 minutes",
           "bold": true
         },
         {
-          "text": ", depending on the level of depth with which you want the students to explore each resource (i.e., skim vs. read everything thoroughly)."
+          "text": ", depending on the level of depth with which you want the students to explore each resource (i.e., skim vs. read everything thoroughly). "
         }
       ]
     },
@@ -65,14 +49,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Students can work "
+          "text": " Students can work individually or in pairs. It is entirely self-paced for the students. "
         },
         {
-          "text": "individually or in pairs.",
+          "text": "To deliver this lesson,",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "bold": true,
+          "text": " simply provide this project link to students: "
+        },
+        {
+          "text": "https://kywark.github.io/lifecycleofadebate/",
+          "link": "https://kywark.github.io/lifecycleofadebate/",
           "bold": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": " They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
         },
         {
           "text": "bolded ",
@@ -168,9 +175,41 @@
               "bold": true
             },
             {
-              "text": "So now that you’ve followed the lifecycle of this debate, answer the following in ~3-4 sentences: What do you think now? Did your stance on the debate change? Why/why not? What is one important takeaway you about how this debate was discussed, reported on, argued, etc. in its lifecycle?\n\n\n\n\n\n"
+              "text": "So now that you’ve followed the lifecycle of this debate, answer the following in ~3-4 sentences: What do you think now? Did your stance on the debate change? Why/why not? What is one important takeaway you about how this debate was discussed, reported on, argued, etc. in its lifecycle?"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nOptionally, you may introduce this lesson by having students move to one side of the room or the other, depending on if they agree or disagree with the following statement:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "I think the state of argument today is good.\n\n"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -183,6 +222,6 @@
   "slug": "teacher-instructions",
   "created_at": "2026-08-09T20:27:59.979Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T03:05:48.729Z",
+  "updated_at": "2026-08-10T03:14:10.569Z",
   "updated_by": "kywark"
 }
