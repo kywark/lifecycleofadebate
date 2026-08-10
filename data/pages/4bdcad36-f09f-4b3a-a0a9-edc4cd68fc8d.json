@@ -4,7 +4,29 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This lesson explores the lifecycle of a debate -- here, \"censorship\" on social media. It is intended for a sophomore level English class as an introduction to the real life importance of rhetoric and debate. The lesson will take 30-45 minutes, depending on how in-depth you want the students to explore each resource."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This lesson explores the lifecycle of a debate -- here, \"censorship\" on social media. It is intended for a "
+        },
+        {
+          "text": "sophomore level English class",
+          "bold": true
+        },
+        {
+          "text": " as an introduction to the "
+        },
+        {
+          "text": "real life importance of rhetoric and debate",
+          "bold": true
+        },
+        {
+          "text": ". "
         }
       ]
     },
@@ -20,7 +42,52 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Students can work individually or in pairs. They will navigate through the lesson by reading, watching, and listening to the resources in the project. Periodically, there will be bolded questions to which the students may respond on a response doc of your choosing -- e.g., Google Doc, notebook paper, etc. The questions have been typed out below for ease of creating that response document."
+          "text": "The lesson will take "
+        },
+        {
+          "text": "30-45 minutes",
+          "bold": true
+        },
+        {
+          "text": ", depending on the level of depth with which you want the students to explore each resource (i.e., skim vs. read everything thoroughly)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students can work "
+        },
+        {
+          "text": "individually or in pairs.",
+          "bold": true
+        },
+        {
+          "text": " They will navigate through the lesson by reading, watching, and listening to the resources in the project. Anything that is "
+        },
+        {
+          "text": "bolded ",
+          "bold": true
+        },
+        {
+          "text": "is an action item for students to read/watch/do; anything that's "
+        },
+        {
+          "text": "bolded and underlined",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " is a question (or questions) that students will respond to in a method of your choosing (e.g., Google Doc, notebook paper, etc.). The questions have been typed out below for ease of creating that response document:"
         }
       ]
     },
@@ -49,13 +116,21 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Answer the following in ~3-4 sentences: What do you think? Do social media companies have too much power? Who bears the responsibility in combating misinformation and hateful speech: users, platforms, or the government? Or does no one bear any responsibility? Why/why not? Be sure to mention specifics from the article(s) to support your answer."
+              "text": "(From Stage 1: Exigence)",
+              "bold": true
+            },
+            {
+              "text": " Answer the following in ~3-4 sentences: What do you think? Do social media companies have too much power? Who bears the responsibility in combating misinformation and hateful speech: users, platforms, or the government? Or does no one bear any responsibility? Why/why not? Be sure to mention specifics from the article(s) to support your answer."
             }
           ]
         },
         {
           "type": "list-item",
           "children": [
+            {
+              "text": "(From Stage 2: Public Debate) ",
+              "bold": true
+            },
             {
               "text": "What would you say are at least three (3) positions in this debate? Briefly explain them -- think beyond agree/disagree! (No need for complete sentences.)"
             }
@@ -65,7 +140,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "BUT ALSO: What would you say was the main difference between the POVs presented in the previous page (the research report vs. the clipped interview)? Which was more compelling to you? Why? (2 sentences max.)"
+              "text": "(From Stage 2: Public Debate)",
+              "bold": true
+            },
+            {
+              "text": " BUT ALSO: What would you say was the main difference between the POVs presented in the previous page (the research report vs. the clipped interview)? Which was more compelling to you? Why? (2 sentences max.)"
             }
           ]
         },
@@ -73,7 +152,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "SO: What was the most successful appeal to you from either of the two sources: ethos, pathos, or logos? What was it? Why do you think it worked on you? (2-3 sentences.)"
+              "text": "(From Rhetoric Refresher)",
+              "bold": true
+            },
+            {
+              "text": " SO: What was the most successful appeal to you from either of the two sources: ethos, pathos, or logos? What was it? Why do you think it worked on you? (2-3 sentences.)"
             }
           ]
         },
@@ -81,7 +164,11 @@
           "type": "list-item",
           "children": [
             {
-              "text": "So now that you’ve followed the lifecycle of this debate, answer the following in ~3-4 sentences: What do you think now? Did your stance on the debate change? Why/why not? What is one important takeaway you about how this debate was discussed, reported on, argued, etc. in its lifecycle?\n\n\n\n\n\n\n\n"
+              "text": "(From Stage 5: Resurrection) ",
+              "bold": true
+            },
+            {
+              "text": "So now that you’ve followed the lifecycle of this debate, answer the following in ~3-4 sentences: What do you think now? Did your stance on the debate change? Why/why not? What is one important takeaway you about how this debate was discussed, reported on, argued, etc. in its lifecycle?\n\n\n\n\n\n"
             }
           ]
         }
@@ -96,6 +183,6 @@
   "slug": "teacher-instructions",
   "created_at": "2026-08-09T20:27:59.979Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T02:55:36.576Z",
+  "updated_at": "2026-08-10T03:05:48.729Z",
   "updated_by": "kywark"
 }
