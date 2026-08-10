@@ -185,7 +185,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nOptionally, you may introduce this lesson by having students move to one side of the room or the other, depending on if they agree or disagree with the following statement:"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Optionally, you may introduce this lesson by having an opening discussion. To do so, you may have students move to one side of the room or the other, depending on if they agree or disagree with the following statement:"
         }
       ]
     },
@@ -198,10 +206,19 @@
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "children": [
         {
-          "text": "I think the state of argument today is good.\n\n"
+          "text": "I think the state of argument today is good.",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThen, have students discuss!"
         }
       ]
     },
@@ -222,6 +239,6 @@
   "slug": "teacher-instructions",
   "created_at": "2026-08-09T20:27:59.979Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T03:14:10.569Z",
+  "updated_at": "2026-08-10T03:17:04.803Z",
   "updated_by": "kywark"
 }
