@@ -90,7 +90,14 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Periodically, there will be questions bolded -- write your answer to these questions in the manner your instructor says."
+              "text": "Periodically, there will be action items "
+            },
+            {
+              "text": "bolded",
+              "bold": true
+            },
+            {
+              "text": ". Follow the action item. There will also be underlined and bolded questions to which you will respond, using the manner your instructor says (e.g., Google Doc, notebook and paper)."
             }
           ]
         }
@@ -122,6 +129,6 @@
   "slug": "student-instructions",
   "created_at": "2026-08-09T20:33:02.143Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-09T20:33:02.143Z",
+  "updated_at": "2026-08-10T02:52:05.379Z",
   "updated_by": "kywark"
 }
