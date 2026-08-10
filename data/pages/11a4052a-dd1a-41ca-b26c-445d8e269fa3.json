@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Very rarely do debates get completely resolved; however, they often times “settle down” due to the fast-paced nature of the news cycle or key actions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nThe debate has seen temporary moments of resolution, although these have often been incomplete or divisive. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For example, from 2021-2022, key platforms like Facebook and Twitter updated their community guidelines to include more explicit rules on harmful content. In fact, in 2021, Facebook created an Oversight Board to review content moderation decisions, including the Trump suspension. "
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.oversightboard.com/",
+              "children": [
+                {
+                  "text": "Click around",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " Facebook (Meta)’s Oversight Board’s website to learn more about them.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With the world experiencing a Global Pandemic, it’s fair to say our attention was divided. But not for long!"
+        }
+      ]
+    }
+  ],
+  "title": "Stage 4: Resolution (or Lack Thereof)",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "stage-4-resolution-or-lack-thereof",
+  "created_at": "2026-08-10T02:48:30.492Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-10T02:48:30.492Z",
+  "updated_by": "kywark"
+}
