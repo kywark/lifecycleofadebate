@@ -74,6 +74,34 @@
       ]
     },
     {
+      "uuid": "bf76bfed-e527-423e-8d3b-f529048b8e32",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -170,6 +198,6 @@
   "slug": "stage-3-derailment",
   "created_at": "2026-08-10T01:29:27.800Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T01:29:27.800Z",
+  "updated_at": "2026-08-10T02:47:21.352Z",
   "updated_by": "kywark"
 }
