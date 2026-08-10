@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "ea91061c-3f76-40a0-9909-050a02f9e388": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtube.com/shorts/JAfvBHhHcbo?si=mcIfb5C8QBx-1gp1",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "First Amendment",
+  "av_file_order": [
+    "ea91061c-3f76-40a0-9909-050a02f9e388"
+  ],
+  "created_at": "2026-08-10T02:46:44.490Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-10T02:46:44.490Z",
+  "updated_by": "kywark"
+}
