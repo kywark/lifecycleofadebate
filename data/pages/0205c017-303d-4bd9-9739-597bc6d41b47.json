@@ -35,7 +35,7 @@
       "align": "center",
       "children": [
         {
-          "text": "*Non-exhaustive - research actually supports this debate extending as far back as the printing press!",
+          "text": "*Non-exhaustive -- research actually supports this debate extending as far back as the printing press!",
           "textSize": "heading-three",
           "italic": true
         }
@@ -155,6 +155,6 @@
   "slug": "student-instructions",
   "created_at": "2026-08-09T20:33:02.143Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T03:09:17.339Z",
+  "updated_at": "2026-08-10T20:03:31.923Z",
   "updated_by": "kywark"
 }
