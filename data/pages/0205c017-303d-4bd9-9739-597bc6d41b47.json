@@ -4,11 +4,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Debate: Censorship on Social Media Platforms",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
       "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "The Debate: Censorship on Social Media Platforms"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -137,6 +147,6 @@
   "slug": "student-instructions",
   "created_at": "2026-08-09T20:33:02.143Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-10T02:54:20.350Z",
+  "updated_at": "2026-08-10T02:57:52.415Z",
   "updated_by": "kywark"
 }
