@@ -1,0 +1,150 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This debate, not joking, has occurred for hundreds of years – basically anytime humans get new tech! So what’s happening now?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nWell:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.bbc.com/news/articles/cly74mpy8klo",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to read about how Meta (Facebook’s parent company) announced that they’ll be walking back fact checking on their platform.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.reuters.com/technology/tiktok-begins-us-testing-footnotes-similar-community-notes-by-x-2025-04-16/",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to read how TikTok is rolling out “Footnotes” for community fact-checking.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            },
+            {
+              "type": "link",
+              "url": "https://www.reuters.com/technology/uk-tells-musk-act-fast-groks-sexualised-ai-images-sky-news-reports-2026-01-06/",
+              "children": [
+                {
+                  "text": "Click here",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "text": " to read how the UK may ban X in light of Grok’s AI-generated harmful content.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These moments have brought the censorship in social media back around – if it can ever really leave us!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nSo now that you’ve followed the lifecycle of this debate, "
+        },
+        {
+          "text": "answer the following in ~3-4 sentences:",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "What do you think now? Did your stance on the debate change? Why/why not? What is one important takeaway you about how this debate was discussed, reported on, argued, etc. in its lifecycle?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Be sure you have thoughtfully responded to each of the five (5) questions throughout this lesson! Submit your responses to your instructor when done."
+        }
+      ]
+    }
+  ],
+  "title": "Stage 5: Resurrection",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "stage-5-resurrection",
+  "created_at": "2026-08-10T02:50:44.846Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-10T02:50:44.846Z",
+  "updated_by": "kywark"
+}
